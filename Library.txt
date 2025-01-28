@@ -1,0 +1,10 @@
+ library management system (LMS) should be able to:
+Store and retrieve information: Store and retrieve information about library patrons and books 
+Search for books: Search for books by title, author, or ISBN 
+Check out and return books: Allow users to check out and return books 
+Display book lists: Display a list of all books in the library 
+Integrate with other systems: Integrate with other systems to reduce duplicate entries and streamline operations 
+Scale and adapt: Scale and adapt to accommodate growth in the collection, number of patrons, and changes in services 
+Be user-friendly: Be easy to use and have a graphic user interface 
+Maintain data: Maintain data accurately and easily accessible 
+Save time: Save time by automating tasks like finding books and issuing books 
